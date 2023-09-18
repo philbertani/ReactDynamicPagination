@@ -1,3 +1,6 @@
+set package.json -> "homepage" to /{directory under main where index.html is located}
+do NOT put a dot in front
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
